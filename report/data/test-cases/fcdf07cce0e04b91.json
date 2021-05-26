@@ -1,0 +1,67 @@
+{
+  "uid" : "fcdf07cce0e04b91",
+  "name" : "test_sum[1-1-2]",
+  "fullName" : "Suites.test_example5.Test_Data#test_sum",
+  "historyId" : "3e5a80977c239a6c962a8b26b423081d",
+  "time" : {
+    "start" : 1621783350425,
+    "stop" : 1621783350425,
+    "duration" : 0
+  },
+  "description" : "\n        测试相加\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    测试相加\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Suites"
+  }, {
+    "name" : "suite",
+    "value" : "test_example5"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Data"
+  }, {
+    "name" : "host",
+    "value" : "fengjiahuideMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "49839-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Suites.test_example5"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "x",
+    "value" : "1"
+  }, {
+    "name" : "y",
+    "value" : "1"
+  }, {
+    "name" : "z",
+    "value" : "2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fcdf07cce0e04b91.json",
+  "parameterValues" : [ "1", "1", "2" ]
+}
